@@ -1,3 +1,4 @@
-<?php
-   echo "yapım aşaması";
+<?php 
+    echo "merhaba dünya";
+
 ?>
